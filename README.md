@@ -24,7 +24,7 @@ This project visualizes AI adoption trends across industries using job market da
 
 ## 📷 Screenshot
 
-📄 [View Dashboard (PDF)](Ai-powered job market insights.pdf)
+📄 [View Dashboard PDF](Ai-powered%20job%20market%20insights.pdf)
 
 ## 📁 How to Use
 
