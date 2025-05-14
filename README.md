@@ -24,7 +24,7 @@ This project visualizes AI adoption trends across industries using job market da
 
 ## 📷 Screenshot
 
-📄 [View Dashboard (PDF)](AI_Adoption_Dashboard_AnushreeR.pdf)
+📄 [View Dashboard (PDF)](Ai-powered job market insights.pdf)
 
 ## 📁 How to Use
 
